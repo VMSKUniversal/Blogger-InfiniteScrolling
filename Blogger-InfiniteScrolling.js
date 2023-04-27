@@ -1,5 +1,5 @@
 (function($) {
-var loadingGif = 'https://lh3.googleusercontent.com/-FiCzyOK4Mew/T4aAj2uVJKI/AAAAAAAAPaY/x23tjGIH7ls/s32/ajax-loader.gif';
+var loadingGif = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKkPjxZOlJRWYBFrXf0d6j9tDMUtBBc3GICsvrmhdyO4z20OZt-jn_pPL1CJjgHLnj3hUCrijdVN_qJqZ0kwruVDFiEnZsOdx4m5XYWCahmFIHcNA4YCkzRPwbTufZp8xTzOozA4Qxly232C0VFPIiVy-dschAPOW-i4bQJEkYYy0D5PC78MsVrlnD5A/s1600/Spinner.gif';
 var olderPostsLink = '';
 var loadMoreDiv = null;
 var postContainerSelector = 'div.blog-posts';
